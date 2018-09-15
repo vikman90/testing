@@ -1,6 +1,6 @@
 ---
 name: Installation test
-about: Test suite for installation
+about: Test suite for installation.
 
 ---
 
