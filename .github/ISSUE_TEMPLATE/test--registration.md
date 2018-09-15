@@ -16,7 +16,7 @@ about: Test suite for agent registration.
 - [ ] Check registration with `-m` and `-A`.
 - [ ] Test force insertion to re-register an agent. (1)
 - [ ] Check client keys on manager and agent are equal.
-- [ ] Check registration with `-m wrong-IP`. **Must fail**
+- [ ] Check registration with `-m wrong-IP`. **Must fail.**
 - [ ] Assign agent to an existing group.
 - [ ] Get a descriptive error when trying to assign an agent to an non-existing group.
 - [ ] Set the agent IP manually by the `-I` option.
