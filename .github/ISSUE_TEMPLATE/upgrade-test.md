@@ -4,7 +4,7 @@ about: Test suite for upgrades.
 
 ---
 
-# Installation
+# Upgrade test
 
 | Version | Revision | Branch |
 | --- | --- | --- |

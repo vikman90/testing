@@ -4,7 +4,7 @@ about: Test suite for installation.
 
 ---
 
-# Installation
+# Installation test
 
 | Version | Revision | Branch |
 | --- | --- | --- |
